@@ -4,6 +4,6 @@ My name is emelin. I used to work at Google & TikTok as a privacy engineer focus
 
 - 🌱 I’m currently enrolled at the University of the People - learning about data science, AI, & ML 
 - 💬 Ask me about privacy, privacy red teaming, or anything sailing-related.
-- 📫 How to reach me: [emelinflores.com](https://emelinflores.com)
+- 📫 How to reach me: in the works...
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: Just hiked [Volcan Acatenango](https://en.wikipedia.org/wiki/Acatenango) 
